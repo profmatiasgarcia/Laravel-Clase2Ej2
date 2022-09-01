@@ -1,0 +1,12 @@
+{
+	"¡Hola!" : "Hi there!",
+
+ 	"Espero que te encuentres bien." : "I hope this meets you well.",
+
+    "Hablemos de localización en Laravel, créanme, es un tema increíble. No obstante, no muchos se han dado cuenta de esta genialidad." : "Let’s talk about Localization in Laravel, trust me, it’s an awesome topic. Notwithstanding, not many have come to realize this awesomeness.",
+
+    "La localización de acuerdo con el diccionario significa adaptar algo a una posición o ubicación fija. Por lo tanto, es suficiente decir que la localización de Laravel implica adaptar el idioma utilizado en la aplicación a la ubicación dada del usuario." : "Localization according to the dictionary, means adapting something to a fixed position or location. It therefore suffices to say that Laravel localization involves adapting the language used in the app to the given location of the user.",
+
+    "Un sitio multilíngüe puede parecer algo complicado. Sin embargo, existen varios paquetes para Laravel que simplifican enormemente nuestra labor a punto tal de permitirnos poner en funcionamiento un sitio multilenguaje en cuestión de minutos. " : "A multilingual site may seem complicated. However, there are several packages for Laravel that greatly simplify our work to allow us to put into operation a multilingual site in a matter of minutes. "
+
+ }
