@@ -10,7 +10,6 @@ Route::view('/', 'welcome');
 
 Route::view('home', 'home')->name('home');
 
-
 Route::post('login',[LoginController::class, 'ingreso'])->name('login');
 
 //Route::post('login',[LoginController::class, 'ingreso'])->middleware('es_mayor_de_edad')->name('login');
